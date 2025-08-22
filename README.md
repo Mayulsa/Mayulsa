@@ -1,4 +1,4 @@
-HY I AM MAICOL LOPEZ A FULLSTACK DEVELOPER FROM DOMINICAN REPUBLIC
+HY I'M MAICOL LOPEZ A FULLSTACK DEVELOPER FROM DOMINICAN REPUBLIC
 - 🌱 I’m currently learning frontend
 - ⚡ Fun fact: I am good at smash broos ultimate
 
