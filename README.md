@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Mayulsa
-- 👀 I’m interested in data
-- 🌱 I’m currently learning .net blazor and sql
-- 📫 How to reach me maicolp.lopezsantos1998@gmail.com
-- ⚡ Fun fact: I am good at smash broos
+HY I AM MAICOL LOPEZ AM A FULLSTACK DEVELOPER FROM DOMINICAN REPUBLIC
+- 🌱 I’m currently learning frontend
+- ⚡ Fun fact: I am good at smash broos ultimate
 
 <!---
 Mayulsa/Mayulsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
